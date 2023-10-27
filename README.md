@@ -5,7 +5,7 @@ Automatize tarefas repetitivas com scripts que controlam seu mouse e teclado!
 
 <div align="center">
   <img 
-    width="75%"
+    width="90%"
     src="github_assets/automate-form.png" 
     alt="automate-form" title="automate-form" 
   />
@@ -30,7 +30,7 @@ Automatize tarefas repetitivas com scripts que controlam seu mouse e teclado!
 ```bash
   $ cd automate-form                  #change to this directory
   $ python3 -m pip install pyautogui  #download packages
-  $ python3 solver.py                 #start the project
+  $ python3 automate-form.py          #start the project
 ```
 
 ### 🐞 Bugs:
